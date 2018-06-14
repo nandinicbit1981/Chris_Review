@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="overview">Overview</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="poster">Poster</string>
+    <string name="trailer">Trailer</string>
+    <string name="preference_popular">Populartiy</string>
+    <string name="preference_sort_label">Sort order of movies</string>
+    <string name="preference_order_key">sortOrderMovies</string>
+    <string name="preference_rating">Ratings</string>
+    <string name="preference_summary">Change order of movies based on Popularity, Average Votes, or Favorites</string>
+
+    <string name="preference_favorites">Favorites</string>
+
+    <string name="internet_connect_error">Network Connection Error</string>
+    <string name="sort_toprated">Sorting by top rated</string>
+    <string name="sort_popularity">Sorting by popularity</string>
+    <string name="sort_favorites">Showing favorites</string>
+
+    <string name="add_favorite">Movie added to favorites</string>
+    <string name="delete_favorite">Movie removed from favorites</string>
+
+
+</resources>
