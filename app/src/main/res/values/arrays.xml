@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="preference_sorting_labels">
+        <item>@string/preference_popular</item>
+        <item>@string/rating</item>
+        <item>@string/preference_favorites</item>
+    </string-array>
+
+    <string-array name="preference_sorting_values">
+        <item>@string/preference_popular</item>
+        <item>@string/preference_rating</item>
+        <item>@string/preference_favorites</item>
+    </string-array>
+</resources>
